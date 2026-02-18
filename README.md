@@ -1,6 +1,6 @@
 # python_practice
 Hello,I'm Swarupa Bagawade
-Python DEveloper Intern
+Python Developer Intern
 
 ## About Me
 Learning Python programming 
